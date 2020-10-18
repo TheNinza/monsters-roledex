@@ -1,0 +1,5 @@
+.a{
+    padding: 2em;
+    animation: 'animate__shakeY';
+    animation-delay:2s;
+}
